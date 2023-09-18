@@ -1,0 +1,17 @@
+[
+    {"date":"Thu May 06 2021", "time":"01:00 PM PST - 02:00 PM PST", "seats":3, "button":"Book Now"},
+    {"date":"Thu May 06 2021", "time":"04:00 PM PST - 07:00 PM PST", "seats":4, "button":"Book Now"},
+    {"date":"Fri May 07 2021", "time":"01:00 PM PST - 02:00 PM PST", "seats":3, "button":"Book Now"},
+    {"date":"Thu May 07 2021", "time":"08:00 PM PST - 10:00 PM PST", "seats":0, "button":"Full"},
+    {"date":"Wed Sep 22 2021", "time":"10:30 AM PST - 11:30 AM PST", "seats":5, "button":"Book Now"},
+    {"date":"Tue Oct 05 2021", "time":"03:15 PM PST - 05:15 PM PST", "seats":2, "button":"Book Now"},
+    {"date":"Sat Nov 13 2021", "time":"09:45 AM PST - 11:00 AM PST", "seats":6, "button":"Book Now"},
+    {"date":"Fri Dec 24 2021", "time":"02:30 PM PST - 03:30 PM PST", "seats":1, "button":"Book Now"},
+    {"date":"Wed Jan 19 2022", "time":"12:00 PM PST - 01:00 PM PST", "seats":7, "button":"Book Now"},
+    {"date":"Mon Feb 14 2022", "time":"03:45 PM PST - 05:00 PM PST", "seats":2, "button":"Book Now"},
+    {"date":"Sun Mar 27 2022", "time":"11:15 AM PST - 12:15 PM PST", "seats":4, "button":"Book Now"},
+    {"date":"Sat Apr 09 2022", "time":"04:30 PM PST - 06:00 PM PST", "seats":3, "button":"Book Now"},
+    {"date":"Wed May 18 2022", "time":"09:00 AM PST - 10:00 AM PST", "seats":8, "button":"Book Now"},
+    {"date":"Tue Jun 21 2022", "time":"01:45 PM PST - 03:00 PM PST", "seats":5, "button":"Book Now"}
+  ]
+  
