@@ -17,7 +17,7 @@ const DefaultScreen = () => {
           <tr>
             <td>
               <Link href="/classSchedule/Python">
-                <p style={{ fontSize: "25px" }}>Python</p>
+                <p style={{ fontSize: "20px" }}>Python</p>
               </Link>
             </td>
             <td>Every Monday</td>
@@ -27,7 +27,7 @@ const DefaultScreen = () => {
           <tr>
             <td>
               <Link href="/classSchedule/Java">
-                <p style={{ fontSize: "25px" }}>Java</p>
+                <p style={{ fontSize: "20px" }}>Java</p>
               </Link>
             </td>
             <td>Every Wednesday</td>
@@ -36,7 +36,7 @@ const DefaultScreen = () => {
           <tr>
             <td>
               <Link href="/classSchedule/HTML">
-                <p style={{ fontSize: "25px" }}>HTML</p>
+                <p style={{ fontSize: "20px" }}>HTML</p>
               </Link>
             </td>
             <td>Every Friday and Saturday</td>
